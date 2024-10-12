@@ -1,0 +1,400 @@
+
+
+@font-face {
+    font-family: covered;
+    src: url(sansation_light.woff);
+  }
+p {
+    font-family: 'covered', sans-serif;
+    color: aliceblue;
+}
+.base {
+    margin: 0;
+    outline: 1px solid red;
+    position: absolute;
+    width: 1920px;
+    height: 4200px;
+    background-color: black;
+    top: -8px;
+    left: -8px;
+}
+
+.foto1 {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+}
+
+.lupa {
+    position: absolute;
+    top: 37px;
+    left: 63px;
+    width: 36px;
+    height: 36px;
+}
+
+.caja1 {
+    position: absolute;
+    top: 30px;
+    left: 1695px;
+    width: 205px;
+    height: 54px;
+}
+
+.login {
+    position: absolute;
+    top: 19px;
+    left: 1773px;
+    width: 50px;
+    height: 20px;
+    font-size: 22px;
+    color: rgb(3, 3, 3);
+}
+
+.logo {
+    position: absolute;
+    top: 227px;
+    left: 682px;
+    width: 556px;
+    height: 313px;
+}
+
+.text {
+    position: absolute;
+    top: 450px;
+    left: 389px;
+    width: 1151px;
+    height: 60px;
+    font-size: 64.5px;
+}
+
+.text1 {
+    position: absolute;
+    top: 570px;
+    left: 466px;
+    width: 1151px;
+    height: 60px;
+    font-size: 29.5px;
+}
+
+.text10 {
+    position: absolute;
+    top: 600px;
+    left: 400px;
+    width: 1151px;
+    height: 60px;
+    font-size: 30px;
+}
+
+.text11 {
+    position: absolute;
+    top: 634px;
+    left: 920px;
+    width: 1151px;
+    height: 60px;
+    font-size: 30px;
+}
+
+
+.text2 {
+    position: absolute;
+    top: 608px;
+    left: 380px;
+    width: 1160px;
+    height: 102px;
+}
+
+.caja2 {
+    position: absolute;
+    top: 755px;
+    left: 730px;
+    width: 458px;
+    height: 104px;
+}
+
+.sign {
+    position: absolute;
+    top: 787px;
+    left: 780px;
+    width: 360px;
+    height: 40px;
+}
+
+.caja3 {
+    position: absolute;
+    top: 1717px;
+    left: 64px;
+    width: 1792px;
+    height: 724px;
+    background-color: rgb(58, 176, 255);
+    border-radius: 100px;
+}
+
+.text3 {
+    position: absolute;
+    top: 1650px;
+    left: 135px;
+    width: 1664px;
+    height: 60px;
+    font-size: 60px;
+    color: aliceblue;
+}
+
+.img2 {
+    position: absolute;
+    top: 1106px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+}
+
+.caja4 {
+    position: absolute;
+    top: 1106px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+    background-color: rgb(58, 176, 255);
+    border-radius: 100px;
+}
+
+.text4 {
+    position: absolute;
+    top: 1070px;
+    left: 360px;
+    width: 1664px;
+    height: 60px;
+    font-size: 65px;
+    color: aliceblue;
+}
+
+.img2 {
+    position: absolute;
+    top: 1310px;
+    left: 845px;
+    width: 200px;
+    height: 180px;
+   
+ 
+}
+
+.text5 {
+    position: absolute;
+    top: 1470px;
+    left: 310px;
+    width: 1664px;
+    height: 60px;
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.text6 {
+    position: absolute;
+    top: 1515px;
+    left: 630px;
+    width: 1664px;
+    height: 60px;
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.img3 {
+    position: absolute;
+    top: 1896px;
+    left: 477px;
+    width: 181px;
+    height: 309px;
+}
+
+.img4 {
+    position: absolute;
+    top: 1896px;
+    left: 670px;
+    width: 181px;
+    height: 309px;
+}
+
+.img5 {
+    position: absolute;
+    top: 1896px;
+    left: 863px;
+    width: 180px;
+    height: 309px;
+}
+
+.img6 {
+    position: absolute;
+    top: 1896px;
+    left: 1055px;
+    width: 181px;
+    height: 309px;
+}
+
+.img7 {
+    position: absolute;
+    top: 1896px;
+    left: 1248px;
+    width: 181px;
+    height: 309px;
+}
+
+.text7 {
+    position: absolute;
+    top: 2230px;
+    left: 420px;
+    width: 1492px;
+    height: 1px;
+    font-size: 49.5px;
+    color: aliceblue;
+}
+
+.text8 {
+    position: absolute;
+    top: 2280px;
+    left: 227px;
+    width: 1492px;
+    height: 1px;
+    font-size: 49px;
+    color: aliceblue;
+}
+
+.caja5 {
+    position: absolute;
+    top: 2467px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+    background-color: rgb(58, 176, 255);
+    border-radius: 100px;
+}
+
+.text9 {
+    position: absolute;
+    font-family: 'covered', sans-serif;
+    top: 2480px;
+    left: 570px;
+    width: 800px;
+    height: 60px;
+    font-size: 59px;
+    color: aliceblue;
+}
+
+.img8 {
+    position: absolute;
+    top: 2650px;
+    left: 860px;
+    width: 169px;
+    height: 169px;
+}
+
+.text12 {
+    position: absolute;
+    top: 2881px;
+    left: 285px;
+    width: 1382px;
+    height: 88px;
+    height: 1px;
+    font-size: 38px;
+}
+
+.text13 {
+    position: absolute;
+    top: 2928px;
+    left: 870px;
+    width: 1382px;
+    height: 88px;
+    height: 1px;
+    font-size: 38px;
+}
+
+.text14 {
+    position: absolute;
+    top: 3000px;
+    left: 440px;
+    width: 1118px;
+    height: 125px;
+    font-size: 109px;
+}
+
+.text15 {
+    position: absolute;
+    top: 3296px;
+    left: 200px;
+    width: 1544px;
+    height: 99px;
+    font-size: 43px;
+}
+
+.text16 {
+    position: absolute;
+    top: 3340px;
+    left: 733px;
+    width: 1544px;
+    height: 99px;
+    font-size: 43px;
+}
+
+.flecha {
+    position: absolute;
+    top: 3689px;
+    left: 305px;
+    width: 19px;
+    height: 27px;
+}
+
+.img9 {
+    position: absolute;
+    top: 3606px;
+    left: 386px;
+    width: 256px;
+    height: 219px;
+}
+
+.img10 {
+    position: absolute;
+    top: 3440px;
+    left: 685px;
+    width: 584px;
+    height: 534px;
+}
+
+.img11 {
+    position: absolute;
+    top: 3587px;
+    left: 1261px;
+    width: 271px;
+    height: 238px;
+}
+
+.flecha2 {
+    position: absolute;
+    top: 3702px;
+    left: 1575px;
+    width: 18px;
+    height: 26px;
+    transform: matrix(-1, 0, 0, 1, 0, 0); /* Refleja horizontalmente para apuntar a la izquierda */
+}
+
+.text17 {
+    position: absolute;
+    top: 4100px;
+    left: 560px;
+    width: 831px;
+    height: 25px;
+
+    font-size: 25px;
+
+}
+
+.text17 {
+    white-space: pre-wrap; /* Asegúrate de que el espacio sea respetado */
+}
+
+.text17::after {
+    content: ", "; /* Contenido adicional después de cada coma */
+}
+
+.text17::after {
+    content: ""; /* Vacío para que no se repita el contenido */
+}
+
